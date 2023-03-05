@@ -19,8 +19,8 @@ My passion for **technology** started at a young age, and I quickly became a sel
 
 | **Comando** | **Descripcion** |
 | ------- | ----------- |
-| contenido | contenido |
-| contenido | contenido |
+| cl | for clear the screen |
+| cafe | for fun, for a hard day |
 
 
 
